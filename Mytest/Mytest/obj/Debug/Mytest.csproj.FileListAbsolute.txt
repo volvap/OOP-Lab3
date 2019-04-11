@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Mytest\Mytest\bin\Debug\Mytest.exe
+C:\Users\User\source\repos\Mytest\Mytest\bin\Debug\Mytest.pdb
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.exe
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.pdb
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.Form1.resources
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Mytest\Mytest\obj\Debug\Mytest.Form2.resources
